@@ -3,23 +3,26 @@
 
 ~~~
 {}{img_left}{Kui Qian.png}{Kui Qian}
-[https://qkprince.github.io/kuiqian/index Kui Qian], M.S. (China) \n
-(Formerly) School of Physics\n
-[https://www.nju.edu.cn/EN/ Nanjing University]\n\n
-Former advisor: [https://physics.nju.edu.cn/2014-5/200240_305828.html Professor Dong Zhang]
+[https://qkprince.github.io/kuiqian/index Kui Qian](China) \n
+PhD Student, Medical Devices and Systems\n
+Department of Electrical and Computer Engineering\n
+[https://www.ucsd.edu/ University of California, San Diego]\n
+
 ~~~
 
 == Contact
-[qkprince92@gmail.com]
+[qkprince92@gmail.com]\n
+[k1qian@eng.ucsd.edu]
 
 
 == Research
-- Biomedical ultrasound
-- Numerical calculation
+- Interests: Machine learning, Digital signal processing, Speech signal processing, Biomedical image processing
+- Current courses: Statistical Learning, Linear Algebra and Application, Machine learning/Image process, Programming for Data Analysis
+- Experience: Biomedical ultrasound, Numerical calculation
 
 
 == Education
-- M.S., Acoustics, School of Physics, Nanjing University, June 2017 (GPA 87.7/100)
+- M.S., Acoustics, School of Physics, Nanjing University, June 2017 (GPA 87.7/100), Advisor: [https://physics.nju.edu.cn/2014-5/200240_305828.html Professor Dong Zhang]
 - B.E., Electronic Information Engineering, Honors College, Nanjing Normal University, July 2014 (GPA 88.6/100)
 
 
@@ -32,6 +35,10 @@ Former advisor: [https://physics.nju.edu.cn/2014-5/200240_305828.html Professor 
 
 
 == Projects
+Fastai course, "*Practical Deep Learning for Coders*", 10/2018
+- Learning about theories of CNNs, RNNs and how to train a deep learning model
+- Building state of the art, highly practical models for computer vision, natural language processing & recommendation systems
+
 National Natural Science Foundation of China, "*Study on the formation and optimization of tissue lesion induced 
 by high intensity focused ultrasound (HIFU) in continuous scanning mode*", 2014-2017
 - Solved differential equations by finite difference algorithm for numerical calculation
@@ -51,7 +58,6 @@ Teaching assistant at Nanjing University for:
 - Digital Signal Processing, Fall 2016
 
 == Personal Information
-- TOEFL iBT-92, GRE-320 (Verbal-150, Quantitative-170)
 - National Computer Rank Examination Rank 3
 - Familiar programming language：Fortran, MATLAB, C, Python, LabVIEW
 
