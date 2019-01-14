@@ -17,7 +17,7 @@ Department of Electrical and Computer Engineering\n
 
 == Research
 - Interests: Machine learning, Digital signal and image processing
-- Current courses: Statistical Learning (ECE 271), Linear Algebra and Application (ECE 269), Machine learning/Image process (ECE 285), Programming for Data Analysis (ECE 143)
+- Current courses: ECE 271A Statistical Learning, ECE 269 Linear Algebra and Application, ECE 143 Programming for Data Analysis, ECE 285F Machine learning/Image process (GPA 3.775)
 - Experience: Biomedical ultrasound, Numerical calculation
 
 
@@ -35,8 +35,12 @@ Department of Electrical and Computer Engineering\n
 
 
 == Projects
-Fastai course, "*Practical Deep Learning for Coders*", 10/2018
-- Learning about theories of CNNs, RNNs and how to train a deep learning model
+Project of ECE 285F, "*Optical Flow Enhanced Multiple Objects Tracking*",([https://github.com/qkprince/Yolo3-voc-train Code]), 11/2018
+- Tested a Keras model of YOLOv3 trained with two different benchmark datasets (COCO, VOC)
+- Realized a satisfaction level of multiple object tracking for human class in videos using a combined algorithm based on YOLOv3, deep SORT and optical flow
+
+Fastai course (www.fast.ai), "*Practical Deep Learning for Coders*", 10/2018
+- Learned about theories of CNNs, RNNs and how to train a deep learning model
 - Building state of the art, highly practical models for computer vision, natural language processing & recommendation systems
 
 National Natural Science Foundation of China, "*Study on the formation and optimization of tissue lesion induced 
